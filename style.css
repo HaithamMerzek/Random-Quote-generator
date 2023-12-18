@@ -1,0 +1,27 @@
+.home{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.home h1{
+    font-size: 80px;
+    font-family: Impact;
+    font-weight: bold;
+}
+.home p{
+    font-size: 35px;
+}
+
+.home .btn{
+    background-color: blue;
+    color: white;
+    width: 250px;
+    height: 80px;
+    border-width: 0;
+    border: 2px solid rgb(57, 56, 56);
+}   
+
+.home .btn:hover{
+    background-color: green;
+    border: none;
+}
